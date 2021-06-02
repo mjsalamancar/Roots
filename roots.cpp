@@ -18,7 +18,7 @@
  
  double f(double x)
  {
-   return (5*x*x-5*x*x+6*x-2);
+   return (50*x*x-5*x*x+6*x-2);
  }
       double bisection(double xl, double xu, double eps, int nmax, fptr func)
       {
